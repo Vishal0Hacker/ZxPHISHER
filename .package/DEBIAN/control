@@ -1,0 +1,8 @@
+Package: ZxPHISHER 
+Version: 2.2
+Installed-Size: 1065
+Architecture: all
+Maintainer: @vishalzxx 
+Depends: php, wget, git, curl, resolv-conf, proot
+Homepage: https://github.com/Vishal0Hacker/ZxPHISHER
+Description: A 32+ Template Tool With Cloudflared Link ZxPHISHER This Tool is made for educational purpose only !
